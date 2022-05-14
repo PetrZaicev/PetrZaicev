@@ -3,8 +3,6 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-https://github.com/PetrZaicev/Stepik_Introduction_to_Programm_Cpp/files/8693240/stepik-certificate-363-d1ef02c.1.pdf
-
 <!--
 **PetrZaicev/PetrZaicev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
